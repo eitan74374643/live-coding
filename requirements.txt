@@ -1,0 +1,16 @@
+# DavidAI Ecosystem Requirements
+
+# Core Logic
+psutil>=5.9.0
+
+# UI
+customtkinter>=5.2.0
+
+# (Optional) Advanced Textual UI for terminal
+# textual>=0.40.0
+
+# (Optional) LLM Support (Uncomment if using real models)
+# llama-cpp-python>=0.2.0
+# torch>=2.0.0
+# transformers>=4.30.0
+
